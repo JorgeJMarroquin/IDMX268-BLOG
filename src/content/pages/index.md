@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Jorge Marroquin
+title: Jorge J. Marroquin
 tagline: Computer Programmer
 featuredImage: /assets/annie-spratt-hx_hf2lppuu-unsplash.jpg
 cta:
