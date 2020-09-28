@@ -38,3 +38,5 @@ You can look for simplicity when applying fonts to your projects. For example, H
 
 
 Remember that although it is important to be mindful about your font choices, sometimes you might be running out of time to release a website, and in the hurry of choosing the best possible font, you might ended up choosing and over-design font that will display the wrong message or make your users more confuse than happy.
+
+![](/assets/alwaysmine.png "AlwaysMine")
