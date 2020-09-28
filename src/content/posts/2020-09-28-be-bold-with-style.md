@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Be "bold" with "Style"
+title: Be "Bold" with "Style"
 slug: /beBoldWithStyle
 date: 2020-09-28 15:43
 description: >
