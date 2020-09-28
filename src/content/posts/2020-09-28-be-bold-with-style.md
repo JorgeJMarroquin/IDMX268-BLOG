@@ -20,3 +20,21 @@ Humans are emotional, everything we see affects us in one way or another. Theref
 In this example, we see a firm of layers that want to be taken seriously. Did they achieve that goal?
 
 Additionally, considered your target audience age when choosing fonts. For example apps such as Robinhood investment or eToro, are applications that focus on young people that don’t have the experience of investing in stocks and options, therefore the fonts used in these type of applications are more friendly and clean, instead of classy or shiny font colors. Your target audience should also determinate the font you should use on your next project.
+
+
+
+
+
+*Simplicity is the answer:*
+
+If after this you are still not sure what type of font to use, then choose simplicity. Since the main idea of choosing fonts are to have a clear and readable message, I would recommend that you use safe typefaces.
+
+For example, "fancy fonts, Funny fonts or Serfi fonts" are extremely hard to read on presentations or slide shows, while "Open Sans" fonts type fits better on them.
+
+You can look for simplicity when applying fonts to your projects. For example, Humanist Sans typefaces are clean, modern, and easy to read. It is like handwriting.
+
+![](/assets/humanist-sans-serif.png "Humanist Sans-Serif")
+
+
+
+Remember that although it is important to be mindful about your font choices, sometimes you might be running out of time to release a website, and in the hurry of choosing the best possible font, you might ended up choosing and over-design font that will display the wrong message or make your users more confuse than happy.
