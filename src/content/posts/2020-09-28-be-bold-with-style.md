@@ -50,3 +50,17 @@ Remember that although it is important to be mindful about your font choices, so
 *Trusting the crowds:*
 
 If you are looking for the best possible font available on the web, you might find it, but you might have to pay the price. However, today Google fonts has a broad list of free fonts that you might want to use for your next project without hurting your wallet. Among the most accepted and commonly used for the crowds are: Roboto, Open Sans, Oswald, Raleway, Lora, Work Sans, among others.
+
+![](/assets/roboto.png "Roboto")
+
+![](/assets/oswald.png "Oswald")
+
+![](/assets/opensans.png "Open Sans")
+
+![](/assets/raleway.png "Relaway")
+
+![](/assets/lora.png "Lora")
+
+![](/assets/worksans.png "Work Sans")
+
+In any of the previous cases shown, always remember to limit the number of fonts you use to keep your next project clean and consistence while be mindful by choosing the right fonts for it.
