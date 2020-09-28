@@ -8,6 +8,7 @@ description: >
   consciously choose the right font for websites, when better to apply
   simplicity instead of over-styling, and learn to trust the crowds on their
   font style preferences.
+featuredImage: /assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg
 ---
 
 
