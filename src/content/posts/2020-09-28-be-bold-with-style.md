@@ -9,6 +9,8 @@ description: >
   simplicity instead of over-styling, and learn to trust the crowds on their
   font style preferences.
 ---
+
+
 **How to Choose A Web Font:**
 
 *Raising awareness:*
@@ -40,3 +42,11 @@ You can look for simplicity when applying fonts to your projects. For example, H
 Remember that although it is important to be mindful about your font choices, sometimes you might be running out of time to release a website, and in the hurry of choosing the best possible font, you might ended up choosing and over-design font that will display the wrong message or make your users more confuse than happy.
 
 ![](/assets/alwaysmine.png "AlwaysMine")
+
+
+
+
+
+*Trusting the crowds:*
+
+If you are looking for the best possible font available on the web, you might find it, but you might have to pay the price. However, today Google fonts has a broad list of free fonts that you might want to use for your next project without hurting your wallet. Among the most accepted and commonly used for the crowds are: Roboto, Open Sans, Oswald, Raleway, Lora, Work Sans, among others.
