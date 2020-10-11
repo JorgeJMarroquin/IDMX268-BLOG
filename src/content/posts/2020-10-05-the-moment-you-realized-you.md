@@ -9,13 +9,13 @@ description: Among of the objectives of this blog are to know a little bit of
   consequences of bad designs in real life.
 featuredImage: /assets/team-cats.jpg
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -54,9 +54,9 @@ featuredImage: /assets/team-cats.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -635,9 +635,9 @@ featuredImage: /assets/team-cats.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,7 +663,7 @@ featuredImage: /assets/team-cats.jpg
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -677,13 +677,13 @@ Typography has been with us since the time of ancient Mesopotamia where cylinder
 
 ![Cilinder-seal of the Uruk period](/assets/cylinder-seal.jpg "Cilinder-seal of the Uruk period")
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -722,9 +722,9 @@ Typography has been with us since the time of ancient Mesopotamia where cylinder
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1303,9 +1303,9 @@ Typography has been with us since the time of ancient Mesopotamia where cylinder
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1331,21 +1331,17 @@ Typography has been with us since the time of ancient Mesopotamia where cylinder
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
+The Roman influence has also permeated through the typography history and current use of it in the western civilization. For example, the famously known Carolingian minuscule lowercases ovals, with its ascenders and descenders, is a script which developed as a calligraphic standar in Europe in the year 780.
+
 In current history, the design and typefaces of the different classes of fonts have been classified by groups. Designed by Maximilien Vox in 1954, typefaces were separated by common features or chronological periods. Vox distinguished nine categories of typefaces as shows in the following scheme:
-
-
 
 ![Vox Scheme](/assets/voxscheme.png "The Schematic classification of Maximilien Vox")
 
-
-
 However, the features on fonts are not settle to only those 9 divisions, fonts can exhibit a broader combination of features and designs which depart from them and its combinations.
-
-The Roman influence has also permeated through the typography history and current use of it in the western civilization. For example, the famously known Carolingian minuscule lowercases ovals, with its ascenders and descenders, is a script which developed as a calligraphic standar in Europe in the year 780.
 
 As previously mentioned, Johannes Gutenberg's influence on our current writing was the cause of the success he achieved with the first printing press. His success relies on the precise and limited number of alphabetic characters versus the unlimited and complicated glyph scripts of the East Asian. The consistency and simplicity boosted Johannes technologies reputation in Europe.
 
@@ -1353,13 +1349,13 @@ With the digitalization of the typography, through the birth of the internet, to
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1398,9 +1394,9 @@ With the digitalization of the typography, through the birth of the internet, to
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1979,9 +1975,9 @@ With the digitalization of the typography, through the birth of the internet, to
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2007,7 +2003,7 @@ With the digitalization of the typography, through the birth of the internet, to
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -2025,23 +2021,23 @@ Therefore, make sure that your typography reinforces the message of the text. Do
 
 Other considerations while choosing typography are:
 
-<!--\\[if !supportLists]-->· <!--\\[endif]-->White Spaces: to ensure the uncluttered of the text.
+<!--\\\[if !supportLists]-->· <!--\\\[endif]-->White Spaces: to ensure the uncluttered of the text.
 
-<!--\\[if !supportLists]-->· <!--\\[endif]-->Alignment: To ensure equality on regards of distance, size, and space on each element.
+<!--\\\[if !supportLists]-->· <!--\\\[endif]-->Alignment: To ensure equality on regards of distance, size, and space on each element.
 
-<!--\\[if !supportLists]-->· <!--\\[endif]-->Color: To make text stand out and create the tone of your written message. Make sure you use the correct balance of the key components of Color, Value, Hue and Saturation.
+<!--\\\[if !supportLists]-->· <!--\\\[endif]-->Color: To make text stand out and create the tone of your written message. Make sure you use the correct balance of the key components of Color, Value, Hue and Saturation.
 
 Overall, take some time to get inspired and choose the correct typography to portray your personality without leaving the intent message out of your text for your customers to visualized.
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2080,9 +2076,9 @@ Overall, take some time to get inspired and choose the correct typography to por
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -2661,9 +2657,9 @@ Overall, take some time to get inspired and choose the correct typography to por
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2689,7 +2685,7 @@ Overall, take some time to get inspired and choose the correct typography to por
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -2703,13 +2699,13 @@ By default, human mint is sort of dirty, the following example does not help to 
 
 ![kidsexchange](/assets/kids_exchange.jpg "Kids Exchange")
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2748,9 +2744,9 @@ By default, human mint is sort of dirty, the following example does not help to 
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -3329,9 +3325,9 @@ By default, human mint is sort of dirty, the following example does not help to 
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -3357,7 +3353,7 @@ By default, human mint is sort of dirty, the following example does not help to 
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -3369,13 +3365,13 @@ The intent message in the following sing is not the exception in terms of misint
 
 ![Massage the rapist](/assets/massage_therapist.jpg "Massage Therapist")
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -3414,9 +3410,9 @@ The intent message in the following sing is not the exception in terms of misint
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -3995,9 +3991,9 @@ The intent message in the following sing is not the exception in terms of misint
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -4023,7 +4019,7 @@ The intent message in the following sing is not the exception in terms of misint
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
