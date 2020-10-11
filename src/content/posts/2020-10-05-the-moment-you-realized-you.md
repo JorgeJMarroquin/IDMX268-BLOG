@@ -1335,7 +1335,13 @@ Typography has been with us since the time of ancient Mesopotamia where cylinder
 
 <!--StartFragment-->
 
-In current history, the design and typefaces of the different classes of fonts have been classified by groups. Designed by Maximilien Vos in 1954, typefaces were separated by common features or chronological periods. By 1962 the "Associeation Typographique Internationale" added another category. In total, these 10 categories remain until this day.
+In current history, the design and typefaces of the different classes of fonts have been classified by groups. Designed by Maximilien Vox in 1954, typefaces were separated by common features or chronological periods. Vox distinguished nine categories of typefaces as shows in the following scheme:
+
+
+
+
+
+
 
 However, the features on fonts are not settle to only those 10 divisions, fonts can exhibit a broader combination of features and designs which depart from these 10 different divisions and its combinations.
 
