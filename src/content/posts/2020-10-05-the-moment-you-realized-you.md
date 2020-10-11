@@ -671,7 +671,7 @@ featuredImage: /assets/team-cats.jpg
 
 I really like to talk about history, I consider it important in every aspect of life. In my opinion, understanding the history of any topic help us to find out in what direction humanity should be directing its efforts for improvement. The use of typography is no exception.
 
-Typography has been with us since the time of ancient Mesopotamia where cylinders seals used to be engraved. Although every type of symbol and letter written by humans has been considered a type of typography since then, it was until 1450 A.C. that the first metal movable-type printing press was invented by Johannes Gutenberg. Since then, humans associate the word typography to letters, giving it its contemporary definition.
+Typography has been with us since the time of ancient Mesopotamia where cylinders seals used to be engraved. Although every type of symbol and letter written by humans has been considered a type of typography, it was until 1450 A.C. that the first metal movable-type printing press was invented, it is credited to Johannes Gutenberg, German craftsman and inventor who originated a method of printing from movable type. Since then, humans associate the word typography to letters, giving it its contemporary definition.
 
 <!--EndFragment-->
 
@@ -1335,7 +1335,7 @@ Typography has been with us since the time of ancient Mesopotamia where cylinder
 
 <!--StartFragment-->
 
-In current history, the design, and typefaces of the different types of fonts were determinate by groups. Designed by Maximilien Vos in 1954, these typefaces were separated by common features or chronological periods. By 1962 the "Associeation Typographique Internationale" added another category. In total, these 10 categories remain until this day.
+In current history, the design and typefaces of the different classes of fonts have been classified by groups. Designed by Maximilien Vos in 1954, typefaces were separated by common features or chronological periods. By 1962 the "Associeation Typographique Internationale" added another category. In total, these 10 categories remain until this day.
 
 However, the features on fonts are not settle to only those 10 divisions, fonts can exhibit a broader combination of features and designs which depart from these 10 different divisions and its combinations.
 
