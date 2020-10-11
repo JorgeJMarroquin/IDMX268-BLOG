@@ -1339,13 +1339,13 @@ In current history, the design and typefaces of the different classes of fonts h
 
 
 
+![Vox Scheme](/assets/voxscheme.png "The Schematic classification of Maximilien Vox")
 
 
 
+However, the features on fonts are not settle to only those 9 divisions, fonts can exhibit a broader combination of features and designs which depart from them and its combinations.
 
-However, the features on fonts are not settle to only those 10 divisions, fonts can exhibit a broader combination of features and designs which depart from these 10 different divisions and its combinations.
-
-The Roman influence has permeated through the typography history and current use of it in the western civilization. From this came the famously known Carolingian minuscule lowercases ovals, with its ascenders and descenders.
+The Roman influence has also permeated through the typography history and current use of it in the western civilization. For example, the famously known Carolingian minuscule lowercases ovals, with its ascenders and descenders, is a script which developed as a calligraphic standar in Europe in the year 780.
 
 As previously mentioned, Johannes Gutenberg's influence on our current writing was the cause of the success he achieved with the first printing press. His success relies on the precise and limited number of alphabetic characters versus the unlimited and complicated glyph scripts of the East Asian. The consistency and simplicity boosted Johannes technologies reputation in Europe.
 
