@@ -58,6 +58,10 @@ In the previous example we are using the "transform" property inside a "&:hover"
 
 <h2>CSS transitions</h2>
 
-Now its time to take a look to the cherry on the top of the whipped cream. Using the <i>transform</i> property without a proper <i>transition</i> property, can make your designs look  unexpected and even abrupt. As we revisit the previous example of the square, althought the scaling of our square looks interesting, we should realized that the abrupt change from one size to the other make it hard for viewer to enjoy the change.
+Now its time to take a look to the cherry on the top of the whipped cream. Using the <i>transform</i> property without a proper <i>transition</i> property, can make your designs look  unexpected and even abrupt. As we revisit the previous example of the square, although the scaling of our square looks interesting, we should realized that the abrupted change from one size to the other make it hard for viewer to enjoy.
 
-Here is where a <i>transition</i> comes along.
+Here is where a <i>transition</i> comes along.  By applying a proper transition, we can make our square to make its change smoothly and gradually. 
+
+But before that, we have to two properties that are required to make a transition to be functional, these are <i>transition-property</i> and <i>transition-duration</i>.  The <i>transition-property</i> will help us to specify the CSS property where we want the transition to take place. And the <i>transition-duration</i> will specify the timing of that transition (in seconds or milliseconds).
+
+Alternatively, you can use a full shorthand sequence to declare these attributes. Moreover, you can add duration, timing, and even delay in the same code line as follows:
