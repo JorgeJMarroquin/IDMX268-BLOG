@@ -65,3 +65,40 @@ Here is where a <i>transition</i> comes along.  By applying a proper transition,
 But before that, we have to two properties that are required to make a transition to be functional, these are <i>transition-property</i> and <i>transition-duration</i>.  The <i>transition-property</i> will help us to specify the CSS property where we want the transition to take place. And the <i>transition-duration</i> will specify the timing of that transition (in seconds or milliseconds).
 
 Alternatively, you can use a full shorthand sequence to declare these attributes. Moreover, you can add duration, timing, and even delay in the same code line as follows:
+
+![Transition Shorthand](/assets/transitionshorthand.jpg "Transition Shorthand")
+
+
+
+Now let's add a transition to our .square example.
+
+```
+/*Haml*/
+.square
+
+
+/*SCSS*/
+.square {
+  background: darkturquoise;
+  border-radius: 5px;
+  height: 100px;
+  margin: 100px;
+  transition: transform 1s;
+  width: 100px;
+  
+  &:hover {
+    transform: scale(2);
+  }
+}
+
+```
+
+In our example we add in line 11 a <i>transition</i> to the <i>transform</i> property and we add "1s" for time. 
+
+
+
+<https://codepen.io/jorgejmarroquin/pen/BazpMNW>
+
+![Transform Scale Example with a Transition](/assets/squarewithtransition.jpg)
+
+Keep in mind that it is important to k
