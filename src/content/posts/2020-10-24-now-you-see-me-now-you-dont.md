@@ -101,4 +101,28 @@ In our example we add in line 11 a <i>transition</i> to the <i>transform</i> pro
 
 ![Transform Scale Example with a Transition](/assets/squarewithtransition.jpg)
 
-Keep in mind that it is important to k
+Using these two properties will help you to have a interactive website, but just keep in mind that while it is important to have an interactive and fresh design on your projects, it is also imperative to keep consistency and simplicity to have a well design website. As I mentioned in previous articles, if you over-design a website you run to the risk of loosing the real meaning and purpose of it, deploying the wrong message to your viewers.
+
+
+
+<h2>skew</h2>
+
+With <i>skew</i> property, elements tilts on one direction or the other. As with the <i>scale</i> the <i>skew</i> property can use X and Y axes to have specific behaviors.
+
+
+
+![transform: skew](/assets/skew1.jpg "<h2>CSS Syntax examples for <i>skew</i></h2>")
+
+![transform: skew](/assets/skew.jpg)
+
+
+
+Following our dark turquoise square example, lets apply this variant to it to see who it behaves.
+
+ 
+
+
+
+<h2><i>transform-origin</i></h2>
+
+The <i>transform-origin</i> property helps you to string the existent transform methods in a single property.
