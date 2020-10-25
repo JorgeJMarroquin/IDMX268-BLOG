@@ -205,3 +205,7 @@ Some properties cannot be transitioned due to the lack of animatable behavior. I
 <h2>What is Next</h2>
 
 With all these elements been transformed, shifted, rotated, slanted, stretched etc etc, you should be wandering what's next. Well, 3D graphics is the next thing, however, 3D has been around for a few years now. With programs such as Flash, <canvas>, or WebGL, 3D environments have been part of the community for quiet a while now, but thanks to the CSS transformations, now front-end developers can enhance their designs by adding a new dimension to a traditional website.
+
+
+
+To finalized this article, I would highly recommend you, ones again, to keep consistency on your transitions and animations. While it is good to have interactive websites, it is also important no to make them distracted to the users. Some tips to keep consisten
