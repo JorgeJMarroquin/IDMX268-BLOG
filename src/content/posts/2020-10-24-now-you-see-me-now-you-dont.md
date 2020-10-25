@@ -10,7 +10,9 @@ featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
 <!--StartFragment-->
 
-If what you want is to give life to your web page projects, if what you want is to step up with the next level of designing, if what you want is to transform your next projects, as well as legacy website, updated with the latest in designing and trends. So what you need are CSS transitions and CSS transforms. These two tools together can take your website updated and fresh for a user friendly experience. In this blog, we will dig into the use of these two properties from a basic perspective. To make it simple and easy, I will show you the basics of them for the immediate  implementation on your current projects. As the saying goes, "practice makes a master". 
+If what you want is to give life to your web page projects, if what you want is to step up with the next level of designing, if what you want is to transform your next projects, as well as your legacy websites, to the latest in designs and trends. So what you really need are CSS <i>transition</i> and CSS <i>transform</i> properties. 
+
+These two tools together can take your website to become fresh and user friendly. In this blog, we will dig into the use of these two properties from a basic perspective. To make it simple and easy, I will show you the basics of them for the immediate  implementation on your current projects. As the saying goes, "practice makes a master". 
 
 <h2>Let's start with <i>transform</i></h2>
 
@@ -210,6 +212,6 @@ Some properties cannot be transitioned due to the lack of animatable behavior. I
 
 <h2>What is Next</h2>
 
-With all these elements been transformed, shifted, rotated, slanted, stretched etc etc, you should be wandering what's next. Well, 3D graphics is the next thing, however, 3D has been around for a few years now. With programs such as Flash, <canvas>, or WebGL, 3D environments have been part of the community for quiet a while now. But thanks to the CSS transformations, now front-end developers can enhance their designs by adding a new dimension to a traditional website.
+With all these elements been transformed, shifted, rotated, slanted, stretched etc etc, you should be wandering what's next. Well, 3D graphics is the next thing, however, 3D has been around for a few years now. With programs such as Flash, Canvas, or WebGL, 3D environments have been part of the community for quiet a while now. But thanks to the CSS transformations, now front-end developers can enhance their designs by adding a new dimension to a traditional website.
 
 To finalized this article, I would highly recommend you, ones again, to keep consistency on your transitions and animations. While it is good to have interactive websites, it is also important not to make them distracted to the users. Stick to the core four properties (Scale, Position, Rotation, Opacity), get the timing right, think about accessibility and use variables to keep things consistent are some tips to keep in your website projects smooth and user friendly.
