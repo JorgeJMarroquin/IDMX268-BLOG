@@ -4,7 +4,8 @@ title: Now you See me Now you Don't
 slug: /NowyouSeemeNowyouDont
 date: 2020-10-24 13:42
 description: Introducing to a new level of designing. Tricks and twists to play
-  around and advices to maintain consistency and not distract the user
+  around CSS transitions and Animations and advices to have an interactive
+  website without loosing consistency and attention from the user
 featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
 <!--StartFragment-->
@@ -119,7 +120,6 @@ Following our dark turquoise square example, lets apply this variant to it to se
     transform: skew(-50deg, 40deg);
   }
 }
-
 ```
 
 This will result in our square to move in its own ratio by -50 degrees in the X axe, and 40 degrees in the Y axe as follows:
@@ -157,13 +157,12 @@ If we add this to our dark turquoise square example it will be as follows:
     transform: rotate(500deg);
   }
 }
-
 ```
-
-
 
 Adding <i>transform-origin: right bottom</i> to our dark turquoise square would take the square from the right and turn it to the left and from the top to the bottom in a 500 degrees.
 
 <https://codepen.io/jorgejmarroquin/pen/pobRYBg>
 
 ![transform-origin](/assets/transform-origin.jpg)
+
+And to clarify, transitions doesn't have to be necessarily in a <i>:hover<i/> block. Here an simple example of a transition called from the parent block:
