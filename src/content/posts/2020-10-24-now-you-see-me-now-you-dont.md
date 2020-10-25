@@ -130,7 +130,7 @@ This will result in our square to move in its own ratio by -50 degrees in the X 
 
 <h2><i>transform-origin</i></h2>
 
-The <i>transform-origin</i> property helps you specify the location origin of the transform, meaning that you can't put this property together with the transform property. In the case of our example, <i>transform-origin</i> can not be in the hover block. For example, if we want to rotate our dark turquoise square not from the center of its ratio, but instead from any other point of the element, use percentages such as 0% 100% or 100% 0% you can accomplish this. Alternately you can specify the rotation of the element by writing <i>left top<i/> or  <i>left bottom<i/> or <i>right top<i/> or <i>right bottom<i/>.
+The <i>transform-origin</i> property helps you specify the location origin of the transform, meaning that you can't put this property together with the transform property. In the case of our example, <i>transform-origin</i> can not be in the hover block. For example, if we want to rotate our dark turquoise square not from the center of its ratio, but instead from any other point of the element, use percentages such as 0% 100% or 100% 0% you can accomplish this. Alternately you can specify the rotation of the element by writing <i>left top</i> or  <i>left bottom</i> or <i>right top</i> or <i>right bottom</i>.
 
 The syntax would be as follows:
 
@@ -165,7 +165,7 @@ Adding <i>transform-origin: right bottom</i> to our dark turquoise square would 
 
 ![transform-origin](/assets/transform-origin.jpg)
 
-And to clarify, transitions doesn't have to be necessarily in a <i>:hover<i/> block. Here an simple example of a transition called from the parent block:
+And to clarify, transitions doesn't have to be necessarily in a <i>:hover</i> block. Here an simple example of a transition called from the parent block:
 
 ```
 /*HTML*/
@@ -201,3 +201,7 @@ And to clarify, transitions doesn't have to be necessarily in a <i>:hover<i/> bl
 If you specify a delay, you have to specify the duration of it first.
 
 Some properties cannot be transitioned due to the lack of animatable behavior. I would recommend to you to visit <https://www.w3.org/TR/css-transitions-1/#animatable-properties>  for a comprehensive list of properties that currently are not animatable supported properties.
+
+<h2>What is Next</h2>
+
+With all these elements been transformed, shifted, rotated, slanted, stretched etc etc, you should be wandering what's next. Well, 3D graphics is the next thing, however, 3D has been around for a few years now. With programs such as Flash, <canvas>, or WebGL, 3D environments have been part of the community for quiet a while now, but thanks to the CSS transformations, now front-end developers can enhance their designs by adding a new dimension to a traditional website.
