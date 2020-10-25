@@ -166,3 +166,38 @@ Adding <i>transform-origin: right bottom</i> to our dark turquoise square would 
 ![transform-origin](/assets/transform-origin.jpg)
 
 And to clarify, transitions doesn't have to be necessarily in a <i>:hover<i/> block. Here an simple example of a transition called from the parent block:
+
+```
+/*HTML*/
+<div class="box"></div>
+
+
+/*CSS*/
+.box {
+  width: 150px;
+  height: 150px;
+  background: red;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
+}
+
+.box:hover {
+  background-color: green;
+  cursor: pointer;
+}
+
+
+```
+
+<https://codepen.io/jorgejmarroquin/pen/GRqWRPw>
+
+![TransitionFromParentBlock](/assets/parentblock.jpg)
+
+If you specify a delay, you have to specify the duration of it first.
+
+Some properties cannot be transitioned due to the lack of animatable behavior. I would recommend to you to visit <https://www.w3.org/TR/css-transitions-1/#animatable-properties>  for a comprehensive list of properties that currently are not animatable supported properties.
