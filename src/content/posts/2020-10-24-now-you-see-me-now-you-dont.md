@@ -42,19 +42,13 @@ Therefore, the following code will create the following results:
 }
 ```
 
-
-
 ![Scale 1](/assets/squarebefore.jpg "Square before scaling it to 2.")
 
 ![Scale 2](/assets/squareafter.jpg "Square after scaling it to 2")
 
-
-
 By scaling to 2 the element will get increased by twice as much as its original size. You can do the same just with de X-axis to increase the width, or the y-axis to increase the height, for example, <i>transform: scaleY(2)</i>
 
 In the previous example we are using the "transform" property inside a "&:hover" selector so when the pointer hovers over the image, the change will immediately take place. However, transform properties can also be used in other div. blocks to change the shape of an element.
-
-
 
 <h2>CSS transitions</h2>
 
@@ -67,8 +61,6 @@ But before that, we have to two properties that are required to make a transitio
 Alternatively, you can use a full shorthand sequence to declare these attributes. Moreover, you can add duration, timing, and even delay in the same code line as follows:
 
 ![Transition Shorthand](/assets/transitionshorthand.jpg "Transition Shorthand")
-
-
 
 Now let's add a transition to our .square example.
 
@@ -90,12 +82,9 @@ Now let's add a transition to our .square example.
     transform: scale(2);
   }
 }
-
 ```
 
 In our example we add in line 11 a <i>transition</i> to the <i>transform</i> property and we add "1s" for time. 
-
-
 
 <https://codepen.io/jorgejmarroquin/pen/BazpMNW>
 
@@ -103,23 +92,39 @@ In our example we add in line 11 a <i>transition</i> to the <i>transform</i> pro
 
 Using these two properties will help you to have a interactive website, but just keep in mind that while it is important to have an interactive and fresh design on your projects, it is also imperative to keep consistency and simplicity to have a well design website. As I mentioned in previous articles, if you over-design a website you run to the risk of loosing the real meaning and purpose of it, deploying the wrong message to your viewers.
 
-
-
 <h2>skew</h2>
 
 With <i>skew</i> property, elements tilts on one direction or the other. As with the <i>scale</i> the <i>skew</i> property can use X and Y axes to have specific behaviors.
-
-
 
 ![transform: skew](/assets/skew1.jpg "<h2>CSS Syntax examples for <i>skew</i></h2>")
 
 ![transform: skew](/assets/skew.jpg)
 
-
-
 Following our dark turquoise square example, lets apply this variant to it to see who it behaves.
 
- 
+```
+/*HTML*/
+<div class="square"></div>
+
+/*SCSS*/
+.square {
+  background: Khaki;
+  border-radius: 5px;
+  height: 150px;
+  margin: 100px;
+  transition: transform 1s;
+  width: 150px;
+  
+  &:hover {
+    transform: skew(-50deg, 40deg);
+  }
+}
+
+```
+
+This will result in our square to move in its own ratio by -50 degrees in the X axe, and 40 degrees in the Y axe as follows:
+
+<https://codepen.io/jorgejmarroquin/pen/pobRYpo>
 
 
 
