@@ -137,3 +137,33 @@ The syntax would be as follows:
 ![Example using <i>transform-origin<i/>](/assets/origin.jpg)
 
 If we add this to our dark turquoise square example it will be as follows:
+
+```
+/*HTML*/
+<div class="square"></div>
+
+
+/*CSS*/
+.square {
+  background: skyblue;
+  border-radius: 5px;
+  height: 150px;
+  margin: 100px auto;
+  transform-origin: right bottom;
+  transition: transform 1s;
+  width: 150px;
+
+  &:hover {
+    transform: rotate(500deg);
+  }
+}
+
+```
+
+
+
+Adding <i>transform-origin: right bottom</i> to our dark turquoise square would take the square from the right and turn it to the left and from the top to the bottom in a 500 degrees.
+
+<https://codepen.io/jorgejmarroquin/pen/pobRYBg>
+
+![transform-origin](/assets/transform-origin.jpg)
