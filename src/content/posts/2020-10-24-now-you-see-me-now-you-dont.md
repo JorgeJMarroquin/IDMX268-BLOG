@@ -208,4 +208,4 @@ With all these elements been transformed, shifted, rotated, slanted, stretched e
 
 
 
-To finalized this article, I would highly recommend you, ones again, to keep consistency on your transitions and animations. While it is good to have interactive websites, it is also important no to make them distracted to the users. Some tips to keep consisten
+To finalized this article, I would highly recommend you, ones again, to keep consistency on your transitions and animations. While it is good to have interactive websites, it is also important not to make them distracted to the users. Stick to the core four properties (Scale, Position, Rotation, Opacity), get the timing right, think about accessibility and use variables to keep things consistent are some tips to keep in your website projects smooth and user friendly.
