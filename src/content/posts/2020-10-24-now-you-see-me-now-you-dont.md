@@ -126,8 +126,14 @@ This will result in our square to move in its own ratio by -50 degrees in the X 
 
 <https://codepen.io/jorgejmarroquin/pen/pobRYpo>
 
-
+![An example of <i>transform: skew</i>](/assets/finalskew.jpg)
 
 <h2><i>transform-origin</i></h2>
 
-The <i>transform-origin</i> property helps you to string the existent transform methods in a single property.
+The <i>transform-origin</i> property helps you specify the location origin of the transform, meaning that you can't put this property together with the transform property. In the case of our example, <i>transform-origin</i> can not be in the hover block. For example, if we want to rotate our dark turquoise square not from the center of its ratio, but instead from any other point of the element, use percentages such as 0% 100% or 100% 0% you can accomplish this. Alternately you can specify the rotation of the element by writing <i>left top<i/> or  <i>left bottom<i/> or <i>right top<i/> or <i>right bottom<i/>.
+
+The syntax would be as follows:
+
+![Example using <i>transform-origin<i/>](/assets/origin.jpg)
+
+If we add this to our dark turquoise square example it will be as follows:
