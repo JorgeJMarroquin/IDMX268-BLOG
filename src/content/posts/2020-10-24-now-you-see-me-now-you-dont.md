@@ -62,7 +62,7 @@ Alternatively, you can use a full shorthand sequence to declare these attributes
 
 ![Transition Shorthand](/assets/transitionshorthand.jpg "Transition Shorthand")
 
-Now let's add a transition to our .square example.
+Now let's add a transition to our dark turquoise example.
 
 ```
 /*Haml*/
