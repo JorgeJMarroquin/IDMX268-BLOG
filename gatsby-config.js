@@ -36,6 +36,13 @@ module.exports = {
       options: {
         gfm: true,
         plugins: [
+          { 
+            resolve:"@weknow/gatsby-remark-codepen", 
+            options: { 
+              theme: "dark", 
+              height: 400 
+            } 
+          },
           netlifyCmsPaths,
           `gatsby-remark-reading-time`,
           {
