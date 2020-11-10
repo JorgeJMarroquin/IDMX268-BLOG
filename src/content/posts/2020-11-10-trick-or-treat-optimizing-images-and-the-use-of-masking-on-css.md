@@ -53,17 +53,15 @@ featuredImage: /assets/sebastiaan-stam-5hbrem-5mnq-unsplash.jpg
 
 <!--EndFragment-->
 
-
-
 **<h2>Discuss Part 2:</h2>**
 
 1. The link to the original pen:
 
-*  [https://codepen.io/russell/pen/okmbe (Links to an external site.)](https://codepen.io/russell/pen/okmbe)
+* https://codepen.io/russell/pen/okmbe
 
 2. The link to your pen:
 
-* [https://codepen.io/jorgejmarroquin/pen/ZEOMJjb (Links to an external site.)](https://codepen.io/jorgejmarroquin/pen/ZEOMJjb)
+* https://codepen.io/jorgejmarroquin/pen/ZEOMJjb
 
 3. What is the purpose of the pen?
 
